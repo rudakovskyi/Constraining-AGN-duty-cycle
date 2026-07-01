@@ -24,13 +24,13 @@ Red central galaxies from the Euclid Flagship (v2) mock catalogue ([Euclid Colla
 
 .
 ├── testing_AGN_mass_dependent_duty_cycle_network_analysis.ipynb   # main analysis
+
 ├── rlf_fit_ref.py              # RLF loading, binned model, chi-square
+
 ├── radiogalaxies_duty_ref.py   # duty-cycle laws and luminosity assignment
+
 ├── generate_network.py         # lightcone graphs and centrality metrics
+
 ├── euclid_fs2_lerg_hosts.sql   # CosmoHub query for the host catalogue
+
 └── README.md
-```
-
-## License
-
-_Add a license of your choice (e.g. MIT) here._
