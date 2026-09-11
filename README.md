@@ -9,7 +9,7 @@ This project studies whether **network (graph) analysis** of the spatial distrib
 - **Radio luminosity.** Each host receives a 150 MHz luminosity drawn from a **log-normal** distribution whose mean scales with stellar mass, $\langle \log_{10} L_{150} \rangle = \log_{10} L_0 + \alpha \, \log_{10}(M_\star / M_{\rm norm})$, with a **fixed dispersion** $\sigma_{\log L} = 0.5$ dex.
 - **Duty cycle.** Two parametrizations are compared:
   - **(a) constant:** $F_{\rm duty} = F_0$;
-  - **(b) mass-dependent power law:** $F_{\rm duty}(M_\star) = F_0 \, \left( M_\star / (10^{11}~M_\odot/h) \right)^{\beta}$.
+  - **(b) mass-dependent power law:** $F_{\rm duty}(M_\star) = F_0  \left( M_\star / (10^{11}~M_\odot/h) \right)^{\beta}$.
 
 ## Data
 
